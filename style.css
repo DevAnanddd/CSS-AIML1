@@ -1,13 +1,12 @@
 body {
-    background-color: #f0f0f0;
+    background-color: white;
     padding-top: 50px;
 }
-
 h1 {
     color: black;
     text-align: left;
     padding-left: 30px;
-    font-family: serif; /* Matches the font in your image better */
+    font-family: serif;
 }
 
 .outer-box {
@@ -17,12 +16,11 @@ h1 {
     margin: 0 auto;
     padding: 20px;
 }
-
 .inner-box {
     background-color: yellow;
     color: black;
-    font-weight: normal; /* Your image text isn't bold */
-    font-family: serif; /* Matches the font in your image better */
+    font-weight: normal;
+    font-family: serif;
     padding: 30px;
     border: 40px solid blue;
     margin: 30px;
