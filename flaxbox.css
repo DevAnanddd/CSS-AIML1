@@ -1,0 +1,27 @@
+.container{
+    height: 600px;
+    width: 800px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+}
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    flex-grow: 1;
+    flex-shrink: 3;
+    
+}
+.item2{
+    order: -1;
+    align-self: baseline;
+
+}
