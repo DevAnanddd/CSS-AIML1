@@ -29,7 +29,7 @@ align-content: center;
 /*
  .item1{
     grid-area: header; */
-
+/* 
 .item2{
     grid-area:main;
 }
@@ -38,4 +38,12 @@ align-content: center;
 }
 .item4{
     grid-area: footer;
-} 
+}  */
+  @media(max-width:768px){
+    body{
+        background-color: lightsalmon;
+
+    }
+  }
+  
+  
