@@ -24,12 +24,12 @@ align-content: center;
     text-align: center;
     align-content: center;
     
-    
-    
 }
+        
+/*
  .item1{
-    grid-area: header;
-}
+    grid-area: header; */
+
 .item2{
     grid-area:main;
 }
